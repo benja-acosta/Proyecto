@@ -1,0 +1,2676 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.867; Version 2009; 64bit' Language: 'es' Physical Memory: 12155 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/benja/rabbit 2d
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60413
+Successfully changed project path to: C:/Users/benja/rabbit 2d
+C:/Users/benja/rabbit 2d
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 91.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/benja/rabbit 2d/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
+    Vendor:   
+    VRAM:     2020 MB
+    Driver:   23.21.13.8857
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56472
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005722 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 70.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.796 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002164 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 83.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.627 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.2 MB.
+System memory in use after: 85.1 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2250.
+Total: 3.023800 ms (FindLiveObjects: 0.386500 ms CreateObjectMapping: 0.197200 ms MarkObjects: 2.264500 ms  DeleteObjects: 0.173800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Rabbit Run Game Assets-09/Ai & Eps
+  artifactKey: Guid(c2bd132a853c12d4d81d7533ae063691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Ai & Eps using Guid(c2bd132a853c12d4d81d7533ae063691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b36351086207daa8e0f3da542f4266a') in 0.018841 seconds
+  Import took 0.022720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Rabbit Run Game Assets-09
+  artifactKey: Guid(af6fffd720f1eb5428a3aeba9c184d02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09 using Guid(af6fffd720f1eb5428a3aeba9c184d02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd95d1ca85203a5d222bed31d83f247ac') in 0.018008 seconds
+  Import took 0.027351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Ai & Eps/BG.eps
+  artifactKey: Guid(15de1b369ee4da64fb4a85954e19b408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Ai & Eps/BG.eps using Guid(15de1b369ee4da64fb4a85954e19b408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '400db674e3db528af872294ccc02f828') in 0.114547 seconds
+  Import took 0.123805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Rabbit Run Game Assets-09/BG/BG-01.png
+  artifactKey: Guid(6ed2a96adc0a71e489fa7ae320d1a57b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/BG/BG-01.png using Guid(6ed2a96adc0a71e489fa7ae320d1a57b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f601ab8a0ebc7546eb55cfc5451ed84') in 0.326759 seconds
+  Import took 0.332468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Idle_001.png
+  artifactKey: Guid(11ea43597e9a1c24cb12babbf60f6987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Idle_001.png using Guid(11ea43597e9a1c24cb12babbf60f6987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd01d7f814c6b4a6930b29a9f4fedd93d') in 0.095641 seconds
+  Import took 0.102947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Die_009.png
+  artifactKey: Guid(14ef2d6a8518fdb4ba2f04443ae44d5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Die_009.png using Guid(14ef2d6a8518fdb4ba2f04443ae44d5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fae03dd6a15a9eb559050adee81d5f5a') in 0.064542 seconds
+  Import took 0.073151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Idle_007.png
+  artifactKey: Guid(4f63eeefb63f60049ad7fafeccfbf2fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Idle_007.png using Guid(4f63eeefb63f60049ad7fafeccfbf2fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '008a5bf1979e2e7bdbe17a86056073fc') in 0.077116 seconds
+  Import took 0.083863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Jump_000.png
+  artifactKey: Guid(b0d9c598661fcc34f8449d79cdbdb1e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Jump_000.png using Guid(b0d9c598661fcc34f8449d79cdbdb1e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ecfee6a4ba084156f87c1505e5b31ea') in 0.088277 seconds
+  Import took 0.095193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000538 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Attack_001.png
+  artifactKey: Guid(b94e32a27fc2f4147b2026830c8248db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Attack_001.png using Guid(b94e32a27fc2f4147b2026830c8248db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73165905b6426f4099fa72c2321e6883') in 0.075504 seconds
+  Import took 0.080269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000781 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Attack_006.png
+  artifactKey: Guid(c5ab6ef1f44292745acc875ba4abab8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Attack_006.png using Guid(c5ab6ef1f44292745acc875ba4abab8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58d26f942414380d522013dc3cac4f76') in 0.069682 seconds
+  Import took 0.075642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000651 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Run_003.png
+  artifactKey: Guid(73dbca87b19351c44941e279642039d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Run_003.png using Guid(73dbca87b19351c44941e279642039d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51a8421ff56325ca61e7779f0b93c58d') in 0.075217 seconds
+  Import took 0.082618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000673 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Attack_004.png
+  artifactKey: Guid(1a89c1e0633ec924d9711f6d51f3fa39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Attack_004.png using Guid(1a89c1e0633ec924d9711f6d51f3fa39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '473879c7439648dc3970951db21a475c') in 0.088404 seconds
+  Import took 0.095265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Die_006.png
+  artifactKey: Guid(9751dbfd696473743b14960d5310908c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Die_006.png using Guid(9751dbfd696473743b14960d5310908c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19167620019679bd982c873379f593d5') in 0.071841 seconds
+  Import took 0.080194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Die_008.png
+  artifactKey: Guid(2de573beb32afbd45b1e53d410c69b27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Die_008.png using Guid(2de573beb32afbd45b1e53d410c69b27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '614b0d2a661ef144ec2c930b2a13c319') in 0.056403 seconds
+  Import took 0.067267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Idle_011.png
+  artifactKey: Guid(66649ac871a37c94da7de23a7f808050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Idle_011.png using Guid(66649ac871a37c94da7de23a7f808050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9d54fa1aecae6e0f83038064aaa792f') in 0.055814 seconds
+  Import took 0.065682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Idle_009.png
+  artifactKey: Guid(488f959c0ff694a41bc479fe846ef8d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Idle_009.png using Guid(488f959c0ff694a41bc479fe846ef8d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0da4c87d6f30f493ad0d52efe08df43c') in 0.070472 seconds
+  Import took 0.081711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Die_002.png
+  artifactKey: Guid(0d3a8b4fbd1c6ef4998ab41d1631a273) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Die_002.png using Guid(0d3a8b4fbd1c6ef4998ab41d1631a273) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac15367b184b7bab165d646720283bad') in 0.056975 seconds
+  Import took 0.069611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Die_011.png
+  artifactKey: Guid(d2cc834f99e66994898ebac8269da17d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Die_011.png using Guid(d2cc834f99e66994898ebac8269da17d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b72e38e5b37dce2589f21830e9eb6113') in 0.050895 seconds
+  Import took 0.057824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006476 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Attack_002.png
+  artifactKey: Guid(250a3752fb1ad0447bceac8285501c62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Attack_002.png using Guid(250a3752fb1ad0447bceac8285501c62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '511a7016a46f91105a39e6dfa9e22fca') in 0.066648 seconds
+  Import took 0.074548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000551 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Attack_007.png
+  artifactKey: Guid(8df895da07844ee409a2412ee26ea69d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Attack_007.png using Guid(8df895da07844ee409a2412ee26ea69d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efa8ae93b510cc1d065e1b263e16f2db') in 0.054738 seconds
+  Import took 0.063577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Run_000.png
+  artifactKey: Guid(db28c40766f21a84e84385876fe49976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Run_000.png using Guid(db28c40766f21a84e84385876fe49976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdbeea89492b7bf754a5aa3047e92b78') in 0.067020 seconds
+  Import took 0.073930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Jump_001.png
+  artifactKey: Guid(c12c9e6ee7dc84245b8022f49cf271cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Jump_001.png using Guid(c12c9e6ee7dc84245b8022f49cf271cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5db9b0dd26489e128e62ddf87ccf0f0') in 0.075104 seconds
+  Import took 0.082988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Die_001.png
+  artifactKey: Guid(b6b18c8068256fd4c9fff2c61d0aa086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Die_001.png using Guid(b6b18c8068256fd4c9fff2c61d0aa086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47eed83c8eef563b0a809de4e48d71a7') in 0.052038 seconds
+  Import took 0.060041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Idle_004.png
+  artifactKey: Guid(abcc6d8e89bfa4c44b59e4fb91b3248a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Idle_004.png using Guid(abcc6d8e89bfa4c44b59e4fb91b3248a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '255bd4166faf517593e8b7a8487d0152') in 0.068950 seconds
+  Import took 0.084226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Die_007.png
+  artifactKey: Guid(af3ad8d14e49c734db6a958ddd8d6134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Die_007.png using Guid(af3ad8d14e49c734db6a958ddd8d6134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32fea76bbdfed22f8b46aaa5bc8e42c0') in 0.072601 seconds
+  Import took 0.081307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Idle_008.png
+  artifactKey: Guid(71d794fbad3431a48a4f3d939ac3e2be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Idle_008.png using Guid(71d794fbad3431a48a4f3d939ac3e2be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd65eb9d66acee76d360df0cdf4607752') in 0.059993 seconds
+  Import took 0.075927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Die_005.png
+  artifactKey: Guid(562b15956a458b747b6396df62e93b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Die_005.png using Guid(562b15956a458b747b6396df62e93b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2b226e128c4d2aaf619900ffac168ae') in 0.066672 seconds
+  Import took 0.073847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000578 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Run_004.png
+  artifactKey: Guid(46b7186cd9ea9894c95d4559926b6ec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Run_004.png using Guid(46b7186cd9ea9894c95d4559926b6ec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcc137aa9d98536686a64c7799bd47c5') in 0.061617 seconds
+  Import took 0.073139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001019 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Die_003.png
+  artifactKey: Guid(7b2656f496aecf845be069601df09171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Die_003.png using Guid(7b2656f496aecf845be069601df09171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df10499fed814717bc203c29f913bb1b') in 0.068921 seconds
+  Import took 0.080271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Idle_002.png
+  artifactKey: Guid(75897d47ad08967429228cfe7d7d4535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Idle_002.png using Guid(75897d47ad08967429228cfe7d7d4535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '860e6cf827dc19baf97dd438c0393595') in 0.063952 seconds
+  Import took 0.070570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Attack_003.png
+  artifactKey: Guid(0fe4db138fa368547bcd9b576c34b948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Attack_003.png using Guid(0fe4db138fa368547bcd9b576c34b948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca979ae85e703840800c9a774e8eee88') in 0.059259 seconds
+  Import took 0.068058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Die_004.png
+  artifactKey: Guid(d4ee3e86a7631cb45ad9956624c529f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Die_004.png using Guid(d4ee3e86a7631cb45ad9956624c529f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6548dc63282e94a45362d489c3acdff1') in 0.066456 seconds
+  Import took 0.077827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Idle_010.png
+  artifactKey: Guid(9e38822a9dddedd44868dd44ba91cb7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Idle_010.png using Guid(9e38822a9dddedd44868dd44ba91cb7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b0c9b5d66691b7886c5a264e3c125ce') in 0.064505 seconds
+  Import took 0.069830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Die_010.png
+  artifactKey: Guid(56ee8e0553a254146bd5ca44298cb293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Die_010.png using Guid(56ee8e0553a254146bd5ca44298cb293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd91a437a417c48e2627b6fe2e01d937') in 0.060222 seconds
+  Import took 0.068898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Run_002.png
+  artifactKey: Guid(dda1ad00304257343890fc6a0380ae8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Run_002.png using Guid(dda1ad00304257343890fc6a0380ae8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b17730ba8590918a2ef63493837d14a8') in 0.059301 seconds
+  Import took 0.065196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Die_000.png
+  artifactKey: Guid(116a53b7a8b400f42b3a610be241f97e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Die_000.png using Guid(116a53b7a8b400f42b3a610be241f97e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b97728d5f0b49189e2d4f0abb4456218') in 0.057187 seconds
+  Import took 0.064318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Idle_000.png
+  artifactKey: Guid(928a58dbcc9e0e0458868300d7ee34c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Idle_000.png using Guid(928a58dbcc9e0e0458868300d7ee34c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e0272274de3c912b31310d6bc8c6233') in 0.066384 seconds
+  Import took 0.075625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000940 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Attack_005.png
+  artifactKey: Guid(119e2e4f86e7b844cb1bdbe63a760247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Attack_005.png using Guid(119e2e4f86e7b844cb1bdbe63a760247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1709561bcdf1bbfc396a0e0625e17e85') in 0.071479 seconds
+  Import took 0.078675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000406 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Attack_000.png
+  artifactKey: Guid(ddc4c0e1169680a4eb62d84a0dd3701b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Attack_000.png using Guid(ddc4c0e1169680a4eb62d84a0dd3701b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f1695e1faf72b6db565227034ed7dcd') in 0.059853 seconds
+  Import took 0.089148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000434 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Idle_006.png
+  artifactKey: Guid(776c8d37b09cfcc4ca2ed63210f70f01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Idle_006.png using Guid(776c8d37b09cfcc4ca2ed63210f70f01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2caa05b8a5b520b407675be1a998f9f') in 0.060383 seconds
+  Import took 0.067198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000442 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Jump_002.png
+  artifactKey: Guid(f4b576b1d8c647342b56c9ece6ca2e29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Jump_002.png using Guid(f4b576b1d8c647342b56c9ece6ca2e29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3c6a57834aebafa041bdd5d19227f5e') in 0.184143 seconds
+  Import took 0.191965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000523 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Attack_000.png
+  artifactKey: Guid(ddc4c0e1169680a4eb62d84a0dd3701b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Attack_000.png using Guid(ddc4c0e1169680a4eb62d84a0dd3701b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f1695e1faf72b6db565227034ed7dcd') in 0.035487 seconds
+  Import took 0.041934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Jump_003.png
+  artifactKey: Guid(2885d387d2477da499a2a6d8dcbcb9aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Jump_003.png using Guid(2885d387d2477da499a2a6d8dcbcb9aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46ff99a9a866d2c8f761117afacb70e6') in 0.044512 seconds
+  Import took 0.051536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Idle_003.png
+  artifactKey: Guid(e3893c5cb3400924ca8b178a622fff73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Idle_003.png using Guid(e3893c5cb3400924ca8b178a622fff73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6caf98d8e64023eb4f175dbab2e7e36') in 0.055349 seconds
+  Import took 0.065439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Run_001.png
+  artifactKey: Guid(f1878aa9a821dec4bb37ae7bcbf9fdd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Run_001.png using Guid(f1878aa9a821dec4bb37ae7bcbf9fdd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b2ed8f6f7ff72ca1a00c606e42fb0c6') in 0.050199 seconds
+  Import took 0.060748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Idle_005.png
+  artifactKey: Guid(578a87ddad8bd2e49a087fd0ab0705c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Idle_005.png using Guid(578a87ddad8bd2e49a087fd0ab0705c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3f949beae24263d589f3137a7430887') in 0.047049 seconds
+  Import took 0.054981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Idle_003.png
+  artifactKey: Guid(e3893c5cb3400924ca8b178a622fff73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Idle_003.png using Guid(e3893c5cb3400924ca8b178a622fff73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6caf98d8e64023eb4f175dbab2e7e36') in 0.029212 seconds
+  Import took 0.039059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.406548 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Run_005.png
+  artifactKey: Guid(62cf09c73c49abf48afad2ae70f68d88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Run_005.png using Guid(62cf09c73c49abf48afad2ae70f68d88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '505d46a50a4e3352aa8c0720a14ff37d') in 0.045459 seconds
+  Import took 0.062602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000705 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Throwing Attack_002.png
+  artifactKey: Guid(65509b7c5dfa04d4e9391f4ee62c73fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Throwing Attack_002.png using Guid(65509b7c5dfa04d4e9391f4ee62c73fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e9bb88f28b0a05a01e44ff09e447de7') in 0.158964 seconds
+  Import took 0.168314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Run_005.png
+  artifactKey: Guid(62cf09c73c49abf48afad2ae70f68d88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Run_005.png using Guid(62cf09c73c49abf48afad2ae70f68d88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '505d46a50a4e3352aa8c0720a14ff37d') in 0.057151 seconds
+  Import took 0.064735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000612 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Throwing Attack_001.png
+  artifactKey: Guid(22b04da906139e5499514a0205dce2b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Throwing Attack_001.png using Guid(22b04da906139e5499514a0205dce2b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9ab916a4d7bf3fea4c3d2281594c639') in 0.075647 seconds
+  Import took 0.083163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Slide_001.png
+  artifactKey: Guid(0e5682e5cbe424849bde50775c385037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Slide_001.png using Guid(0e5682e5cbe424849bde50775c385037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8acb678a8a651018c4085ac816dbb42d') in 0.102993 seconds
+  Import took 0.113043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Run_006.png
+  artifactKey: Guid(2464b257cbeb0764f8e1fef88887479a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Run_006.png using Guid(2464b257cbeb0764f8e1fef88887479a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81390d66925f34445f988a8b1f5a7701') in 0.089977 seconds
+  Import took 0.099153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Throwing Attack_000.png
+  artifactKey: Guid(406537d1b7a6490449594047b9a2475d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Throwing Attack_000.png using Guid(406537d1b7a6490449594047b9a2475d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebe5fe5d3a241b251054cb27e1fdc959') in 0.096775 seconds
+  Import took 0.102997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Slide_000.png
+  artifactKey: Guid(75e128464a21e9a4c82c204730fd63f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Slide_000.png using Guid(75e128464a21e9a4c82c204730fd63f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09ceddafe1891c8cb404035aef04bb15') in 0.077933 seconds
+  Import took 0.086322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Slide_002.png
+  artifactKey: Guid(67e8ed6aeaac67647b89eefeffbb483a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Slide_002.png using Guid(67e8ed6aeaac67647b89eefeffbb483a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1ebf9102cbdb63a33b95b4993d81088') in 0.061342 seconds
+  Import took 0.073035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Slide_003.png
+  artifactKey: Guid(57356ab6725481545829a1faffd958d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Slide_003.png using Guid(57356ab6725481545829a1faffd958d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b2e15eb34c224e58b69789a45ebd2d3') in 0.054775 seconds
+  Import took 0.063252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000543 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Run_007.png
+  artifactKey: Guid(5c59f74e0fca6294d918099e1f3676a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Run_007.png using Guid(5c59f74e0fca6294d918099e1f3676a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bffa1d62d9936fbc479934a205341329') in 0.049719 seconds
+  Import took 0.055717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.215162 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Throwing Attack_003.png
+  artifactKey: Guid(ad915bf10b5479a41a8fd891db45cf90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Throwing Attack_003.png using Guid(ad915bf10b5479a41a8fd891db45cf90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b9ca733bb12a547b619af9939a51b9a') in 0.048965 seconds
+  Import took 0.054767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Throwing Attack_005.png
+  artifactKey: Guid(66a1c85d0b2f47943853ae9b98855c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Throwing Attack_005.png using Guid(66a1c85d0b2f47943853ae9b98855c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84d86acddac16adc5aae8197055f43dd') in 0.060238 seconds
+  Import took 0.065791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Throwing Attack_004.png
+  artifactKey: Guid(35e115f36b676484bbafbc39f2879cc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Throwing Attack_004.png using Guid(35e115f36b676484bbafbc39f2879cc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '237597da73a2c125142b59a279de528e') in 0.059387 seconds
+  Import took 0.067474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.474068 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice30_30.png
+  artifactKey: Guid(b6e0264e812695345854e7f020ddcdd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice30_30.png using Guid(b6e0264e812695345854e7f020ddcdd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '310da58ff937f7a17e9db89de4f1cfe0') in 0.051238 seconds
+  Import took 0.058587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice59_59.png
+  artifactKey: Guid(3707271cb66c278469106c5c16a6bcf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice59_59.png using Guid(3707271cb66c278469106c5c16a6bcf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd716994ba59d1d3c55807a9b9abb1d5') in 0.060970 seconds
+  Import took 0.065843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice60_60.png
+  artifactKey: Guid(4269dcf6b736ec449b477605e41444bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice60_60.png using Guid(4269dcf6b736ec449b477605e41444bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c217e585a060bca88258cfc61db064b4') in 0.121407 seconds
+  Import took 0.126735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice58_58.png
+  artifactKey: Guid(24de6ddeea91d7241b13835f987137e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice58_58.png using Guid(24de6ddeea91d7241b13835f987137e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '443896203a277be8df2ef2a993d70b09') in 0.065122 seconds
+  Import took 0.072520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice41_41.png
+  artifactKey: Guid(91ff2d3754431654696d0a8a4be18bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice41_41.png using Guid(91ff2d3754431654696d0a8a4be18bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '501c29c168233ce34534ee7d4eb2b993') in 0.059704 seconds
+  Import took 0.066329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice53_53.png
+  artifactKey: Guid(bd62315188fa1c943b18304b4430e59d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice53_53.png using Guid(bd62315188fa1c943b18304b4430e59d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a5703ba6ada69f58bd1020fe1fb0329') in 0.055329 seconds
+  Import took 0.066367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice64_64.png
+  artifactKey: Guid(a9aba2d13d100574093999689a07ca70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice64_64.png using Guid(a9aba2d13d100574093999689a07ca70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01cf414a5767071536474a557ef897fd') in 0.044796 seconds
+  Import took 0.051983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice32_32.png
+  artifactKey: Guid(81505e2df18952f4eb3c607856159382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice32_32.png using Guid(81505e2df18952f4eb3c607856159382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc19a63f9ee54c243aecbdb742ba40d7') in 0.060873 seconds
+  Import took 0.081963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice55_55.png
+  artifactKey: Guid(61d57a08439138443a2d35e237fa9164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice55_55.png using Guid(61d57a08439138443a2d35e237fa9164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6daf342939d10b8e9c77b0dabc995b01') in 0.043238 seconds
+  Import took 0.058733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice56_56.png
+  artifactKey: Guid(b53524f9887727349be187083681006e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice56_56.png using Guid(b53524f9887727349be187083681006e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3193891de2b0ec17db9e4a5863a72d02') in 0.068448 seconds
+  Import took 0.079552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice39_39.png
+  artifactKey: Guid(6d9185680d70f6c4b8110249b53f7837) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice39_39.png using Guid(6d9185680d70f6c4b8110249b53f7837) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f77649fcd3da98c5ef445da04dc58374') in 0.069284 seconds
+  Import took 0.076072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice38_38.png
+  artifactKey: Guid(ad00f9e9c312112459223af9491122af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice38_38.png using Guid(ad00f9e9c312112459223af9491122af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '075e35d0851de44e35d907a24457fd7d') in 0.053813 seconds
+  Import took 0.066547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice49_49.png
+  artifactKey: Guid(1f6d5e391b37681498dd9af2277891fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice49_49.png using Guid(1f6d5e391b37681498dd9af2277891fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dd16092fb21aaa49391963251e2fa4c') in 0.057655 seconds
+  Import took 0.074448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice33_33.png
+  artifactKey: Guid(017a3bb0565fe044bba44317be7c5c10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice33_33.png using Guid(017a3bb0565fe044bba44317be7c5c10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '805dfb9ef77e9274d693cb9f8fb8d662') in 0.057150 seconds
+  Import took 0.069405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice54_54.png
+  artifactKey: Guid(ad5766e2853367e42a520421327746a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice54_54.png using Guid(ad5766e2853367e42a520421327746a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ae3e332b083d0bb758f313adf9ab4b4') in 0.078318 seconds
+  Import took 0.086839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice51_51.png
+  artifactKey: Guid(78ea69d3b255e7041bf0af1ad9e7d87d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice51_51.png using Guid(78ea69d3b255e7041bf0af1ad9e7d87d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af81af2798047f30680041a18caecf98') in 0.065431 seconds
+  Import took 0.076673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice67_67.png
+  artifactKey: Guid(56bcd7ad1ebabbf45bc9f050cf0279a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice67_67.png using Guid(56bcd7ad1ebabbf45bc9f050cf0279a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e3b13a67b4f2ed0b9bbf4f3fb29f2c8') in 0.068761 seconds
+  Import took 0.074817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice43_43.png
+  artifactKey: Guid(5a7fc6751ce025c40af87964607347c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice43_43.png using Guid(5a7fc6751ce025c40af87964607347c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4e1b01205c71333c694bc981d7e8746') in 0.071366 seconds
+  Import took 0.079977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice69_69.png
+  artifactKey: Guid(de4b1222f6002854aae17bd3b8750e9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice69_69.png using Guid(de4b1222f6002854aae17bd3b8750e9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '509d150e31f85fc165c99d0a806b74b1') in 0.056859 seconds
+  Import took 0.068747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice65_65.png
+  artifactKey: Guid(88c5df05e5399af42abb73c9276d87f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice65_65.png using Guid(88c5df05e5399af42abb73c9276d87f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4ff00a7bc3ac1c97760726e764be604') in 0.047045 seconds
+  Import took 0.057275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice42_42.png
+  artifactKey: Guid(6cc1f2f7921e6c246b28d9fcb4935a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice42_42.png using Guid(6cc1f2f7921e6c246b28d9fcb4935a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76a19f3e5239731da17d1878278a5e6f') in 0.052591 seconds
+  Import took 0.061686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice57_57.png
+  artifactKey: Guid(0e57b494595c6164e86ffaffde30a517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice57_57.png using Guid(0e57b494595c6164e86ffaffde30a517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '953d71704a564a5ab60a67c881eaffc3') in 0.058154 seconds
+  Import took 0.070497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice45_45.png
+  artifactKey: Guid(1ecfe3305f57e3949850a49dedce8e44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice45_45.png using Guid(1ecfe3305f57e3949850a49dedce8e44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f0f277a8eebe599219fe88cacdccc84') in 0.064717 seconds
+  Import took 0.071799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice48_48.png
+  artifactKey: Guid(6b03a1a028db0a741a71e497cb9af887) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice48_48.png using Guid(6b03a1a028db0a741a71e497cb9af887) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4abee601f1d0a4edc157448d334df9cf') in 0.066555 seconds
+  Import took 0.076913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice66_66.png
+  artifactKey: Guid(162713e108d5f0d478ac505bfba78b75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice66_66.png using Guid(162713e108d5f0d478ac505bfba78b75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc1484c11274b6f5daa6f29158983fe7') in 0.061742 seconds
+  Import took 0.068805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000471 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice37_37.png
+  artifactKey: Guid(8003987eaafad274284fb2e401fe23be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice37_37.png using Guid(8003987eaafad274284fb2e401fe23be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6565ec70e4f87f24b5dd2bbc46418354') in 0.067643 seconds
+  Import took 0.076652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice40_40.png
+  artifactKey: Guid(8c2b5edcf1642e04db983546a1a141dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice40_40.png using Guid(8c2b5edcf1642e04db983546a1a141dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fb9ed965750b48ca129cc4d2eee0854') in 0.055053 seconds
+  Import took 0.068611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice79_79.png
+  artifactKey: Guid(0955f4fd6b928b14fb8a9b0a931242db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice79_79.png using Guid(0955f4fd6b928b14fb8a9b0a931242db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bd7112db114555b133bb62cc4f7db33') in 0.064093 seconds
+  Import took 0.072043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice90_90.png
+  artifactKey: Guid(69a5e2144c3b0f144bcc113328e594d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice90_90.png using Guid(69a5e2144c3b0f144bcc113328e594d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92db59fc0136a271c465fee64d067e11') in 0.071240 seconds
+  Import took 0.100396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice72_72.png
+  artifactKey: Guid(f223928faab9e9f4ba359ad117422ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice72_72.png using Guid(f223928faab9e9f4ba359ad117422ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10359c51e55e108c317679809cd5180b') in 0.055205 seconds
+  Import took 0.066180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice89_89.png
+  artifactKey: Guid(8b85f3ff0facf2d459a55bb5804b0701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice89_89.png using Guid(8b85f3ff0facf2d459a55bb5804b0701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edbabb6997c06025501b7ef064877f8f') in 0.052579 seconds
+  Import took 0.063148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice82_82.png
+  artifactKey: Guid(7129d8c399e46ee4c931ff41dcf70c34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice82_82.png using Guid(7129d8c399e46ee4c931ff41dcf70c34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3e6cc13748ac06ce2f94a18973418f0') in 0.058629 seconds
+  Import took 0.069310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice74_74.png
+  artifactKey: Guid(560bad4ce3071c343b83a73ac4209233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice74_74.png using Guid(560bad4ce3071c343b83a73ac4209233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c972a6d80721ba864eb8dfae655742a') in 0.055614 seconds
+  Import took 0.066114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice87_87.png
+  artifactKey: Guid(e055e2d418028c747a4ebcaf7ec1afaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice87_87.png using Guid(e055e2d418028c747a4ebcaf7ec1afaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd93b5c84691f823be5f17525b1a3ee34') in 0.058715 seconds
+  Import took 0.072543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice80_80.png
+  artifactKey: Guid(1a017f6a14c6750458baaf7741520c79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice80_80.png using Guid(1a017f6a14c6750458baaf7741520c79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03a17b1579d1cadf38ae4f43cf7ba1f8') in 0.058207 seconds
+  Import took 0.069181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice83_83.png
+  artifactKey: Guid(64bec629cd4974b4e9af4cf6aa0d88ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice83_83.png using Guid(64bec629cd4974b4e9af4cf6aa0d88ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba1d5c0a29323d2d3f60515ae2432e9c') in 0.052912 seconds
+  Import took 0.073601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice77_77.png
+  artifactKey: Guid(f6a8022b5cb74e04c80dd44cce911208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice77_77.png using Guid(f6a8022b5cb74e04c80dd44cce911208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4ce6e8195819c0c67791d425aa11c87') in 0.055950 seconds
+  Import took 0.065914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice78_78.png
+  artifactKey: Guid(ea4dd6f8b446d5f4da77adaf9f3d07a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice78_78.png using Guid(ea4dd6f8b446d5f4da77adaf9f3d07a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4872c64e3a3e08f648b116b6568c5a66') in 0.056391 seconds
+  Import took 0.066476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice81_81.png
+  artifactKey: Guid(409f5744d84c88540887de3a4f393d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice81_81.png using Guid(409f5744d84c88540887de3a4f393d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '709b6bf64c7e3b161a754df894f7b94d') in 0.060282 seconds
+  Import took 0.076655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice94_94.png
+  artifactKey: Guid(4e365b6afc7f9e44a8977267f2a5353e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice94_94.png using Guid(4e365b6afc7f9e44a8977267f2a5353e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13f4bb24a248f29843fd7124de6c79f0') in 0.047061 seconds
+  Import took 0.054030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice105_@.png
+  artifactKey: Guid(4b2256e4fa3a6f54f8deed37339cce75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice105_@.png using Guid(4b2256e4fa3a6f54f8deed37339cce75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b6763ef4dbe4682cd4c7521289157c2') in 0.064026 seconds
+  Import took 0.076344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice104_@.png
+  artifactKey: Guid(fc95a8246d67a1d46a8506a3e0b3ea07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice104_@.png using Guid(fc95a8246d67a1d46a8506a3e0b3ea07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b12ba7328696708d8dacc6f7d95df5e') in 0.080485 seconds
+  Import took 0.090313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice106_@.png
+  artifactKey: Guid(56fe4f75f5d4c4546bb135d79bc43486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice106_@.png using Guid(56fe4f75f5d4c4546bb135d79bc43486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3be0a65ce093482b27eccb8e3a106ba5') in 0.072166 seconds
+  Import took 0.083227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000455 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice97_97.png
+  artifactKey: Guid(3802e9737373c6c4aad6e8eec354a4a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice97_97.png using Guid(3802e9737373c6c4aad6e8eec354a4a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e8b4b69c54c68ed5d02cc5148cdc732') in 0.074910 seconds
+  Import took 0.083920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice92_92.png
+  artifactKey: Guid(b78d52911b33bd843a7803dc19156eeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice92_92.png using Guid(b78d52911b33bd843a7803dc19156eeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4b72c4e2dba530a39abb6547d3b223e') in 0.076772 seconds
+  Import took 0.086416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000412 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice100_100.png
+  artifactKey: Guid(e0d2726d24885e64cbab22046dffff97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice100_100.png using Guid(e0d2726d24885e64cbab22046dffff97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '374f79a0099a37c4ca857191eb33bed8') in 0.086135 seconds
+  Import took 0.098417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice102_@.png
+  artifactKey: Guid(db29aeb185f09d34393a866a48825096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice102_@.png using Guid(db29aeb185f09d34393a866a48825096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1c560597ec2a979878727079bda9f97') in 0.070497 seconds
+  Import took 0.082191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice107_@.png
+  artifactKey: Guid(67af03bfa57985d4d952b7ca6d4022d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice107_@.png using Guid(67af03bfa57985d4d952b7ca6d4022d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2401dac591f08563baae8296b4af3b05') in 0.090467 seconds
+  Import took 0.096651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice85_85.png
+  artifactKey: Guid(b72232c97bd145e44b435d927eafe43b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice85_85.png using Guid(b72232c97bd145e44b435d927eafe43b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88a44f5359b83aa8aca62e0f54657f2e') in 0.051916 seconds
+  Import took 0.061577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice93_93.png
+  artifactKey: Guid(4967585eae5998344a863c2c3e4dd59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice93_93.png using Guid(4967585eae5998344a863c2c3e4dd59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faa04d4dc773d96e6a16a454cb7adf93') in 0.056114 seconds
+  Import took 0.072008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice75_75.png
+  artifactKey: Guid(5bb0ed8415564bd4682016b904a03425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice75_75.png using Guid(5bb0ed8415564bd4682016b904a03425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0484bdc2ccf66303b505e3653329baea') in 0.100626 seconds
+  Import took 0.111212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice36_36.png
+  artifactKey: Guid(3c270cb476f8f754fb06d76983b17c0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice36_36.png using Guid(3c270cb476f8f754fb06d76983b17c0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9a0ffe9644b424bdfccd26835a4c203') in 0.078051 seconds
+  Import took 0.088522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice76_76.png
+  artifactKey: Guid(1725e35217335864480a7599513a0588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice76_76.png using Guid(1725e35217335864480a7599513a0588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14e102090ecd66617138bdbd1b5e155c') in 0.065567 seconds
+  Import took 0.077169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice34_34.png
+  artifactKey: Guid(87085a27d4a744a4b9149b29f0372bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice34_34.png using Guid(87085a27d4a744a4b9149b29f0372bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '113cad516c1d86df63ce697ed50ca4ea') in 0.055194 seconds
+  Import took 0.064175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice52_52.png
+  artifactKey: Guid(6189f63c77b5a764d9e366fc0c5eb582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice52_52.png using Guid(6189f63c77b5a764d9e366fc0c5eb582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5db238d99e90649269f308a9e62b161') in 0.079082 seconds
+  Import took 0.086111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice50_50.png
+  artifactKey: Guid(38a295f795904ee4b9abbc05c1f4ff2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice50_50.png using Guid(38a295f795904ee4b9abbc05c1f4ff2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62167bdbcc443a1983df58bf20b78c38') in 0.051453 seconds
+  Import took 0.056411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice31_31.png
+  artifactKey: Guid(73e4100ec783e514a9536993820d99c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice31_31.png using Guid(73e4100ec783e514a9536993820d99c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2bb7ea141cab5e2989ab9c618b02868') in 0.046421 seconds
+  Import took 0.059572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice68_68.png
+  artifactKey: Guid(6d15b6c82cbfb6c418966c29796162aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice68_68.png using Guid(6d15b6c82cbfb6c418966c29796162aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1793adf888a132013bd587ae8b1163e0') in 0.066018 seconds
+  Import took 0.073688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice101_@.png
+  artifactKey: Guid(0a0baa7581b12b94390a213648ff59d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice101_@.png using Guid(0a0baa7581b12b94390a213648ff59d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '700ae113dc783b006c9be6b687e0b8f4') in 0.057482 seconds
+  Import took 0.069739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000682 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice44_44.png
+  artifactKey: Guid(68ab9d4f02cf32848877d260cb48d8b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice44_44.png using Guid(68ab9d4f02cf32848877d260cb48d8b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4729c95b25694839178186e45eb9fa88') in 0.057775 seconds
+  Import took 0.068672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice46_46.png
+  artifactKey: Guid(4c2c54e3765f83e468a100d0c97f1ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice46_46.png using Guid(4c2c54e3765f83e468a100d0c97f1ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60719e117de169026e4ac382af3ef490') in 0.056156 seconds
+  Import took 0.067741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice99_99.png
+  artifactKey: Guid(83cfe43d581d1ec46a69d8456951061e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice99_99.png using Guid(83cfe43d581d1ec46a69d8456951061e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fff9ea8e137b9c9954f7695b3195aec2') in 0.061993 seconds
+  Import took 0.068998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice47_47.png
+  artifactKey: Guid(745285fcaecba764391a83bf6f0a077f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice47_47.png using Guid(745285fcaecba764391a83bf6f0a077f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ac4db44c32e84c8160eb00660018654') in 0.062192 seconds
+  Import took 0.068409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice88_88.png
+  artifactKey: Guid(83658a002b96be549806320aa0ae3f6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice88_88.png using Guid(83658a002b96be549806320aa0ae3f6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3e9bc40f1bf1a1914f087bfc609ff5f') in 0.074780 seconds
+  Import took 0.081930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001188 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice91_91.png
+  artifactKey: Guid(98ca3b69fb5440e46be0c0febd2e263d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice91_91.png using Guid(98ca3b69fb5440e46be0c0febd2e263d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1734d9ac60b4b4dc34df3c4cd8e7642c') in 0.090474 seconds
+  Import took 0.102472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice108_@.png
+  artifactKey: Guid(7d4b2eddad5cc8b47af2508711e57f6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice108_@.png using Guid(7d4b2eddad5cc8b47af2508711e57f6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96d90535e6e1b18b63ef590ff358d8e0') in 0.065750 seconds
+  Import took 0.075033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice84_84.png
+  artifactKey: Guid(bfb38dac276f2074da77586b0fa57024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice84_84.png using Guid(bfb38dac276f2074da77586b0fa57024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c40aec0a3d34808f758bd03589679b70') in 0.056898 seconds
+  Import took 0.064875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000419 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice95_95.png
+  artifactKey: Guid(4f0166522fe0a724ebe412553f62d1bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice95_95.png using Guid(4f0166522fe0a724ebe412553f62d1bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5eb55ca2042708836c749727310d2223') in 0.053045 seconds
+  Import took 0.059157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000538 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice103_@.png
+  artifactKey: Guid(c0c5842b510e28743895f48a30ada6bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice103_@.png using Guid(c0c5842b510e28743895f48a30ada6bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b67a162ef5d09a42eda00cb842aa54ec') in 0.066574 seconds
+  Import took 0.074388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/weapon.png
+  artifactKey: Guid(63b7fb0d3f0fbed46a72ad045bb72d6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/weapon.png using Guid(63b7fb0d3f0fbed46a72ad045bb72d6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c034ba9d417d514a9ebd7393179940bf') in 0.063577 seconds
+  Import took 0.069520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice70_70.png
+  artifactKey: Guid(7df27fb43b2a3de4faf3542bbac2a4fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice70_70.png using Guid(7df27fb43b2a3de4faf3542bbac2a4fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '742046ee98df558e5e6c311059407002') in 0.074118 seconds
+  Import took 0.081366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice96_96.png
+  artifactKey: Guid(02be70991d4a47f49a01364e02063e57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice96_96.png using Guid(02be70991d4a47f49a01364e02063e57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fafe82154639131fd3e6e9057352e1b7') in 0.065108 seconds
+  Import took 0.071161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005042 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice70_70.png
+  artifactKey: Guid(7df27fb43b2a3de4faf3542bbac2a4fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice70_70.png using Guid(7df27fb43b2a3de4faf3542bbac2a4fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '742046ee98df558e5e6c311059407002') in 0.052675 seconds
+  Import took 0.065763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice62_62.png
+  artifactKey: Guid(5e92c2c5d22cb7741a39f7814476b5e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice62_62.png using Guid(5e92c2c5d22cb7741a39f7814476b5e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b37f6498f5c0da4397dab51f5b51572') in 0.067466 seconds
+  Import took 0.074545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice98_98.png
+  artifactKey: Guid(803f5de149b7fdd47acb5a5b011e6774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice98_98.png using Guid(803f5de149b7fdd47acb5a5b011e6774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe65e8222a417605923324f29f6f16ed') in 0.056259 seconds
+  Import took 0.064868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice73_73.png
+  artifactKey: Guid(ba481d31535f02a42916874a09b8b714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice73_73.png using Guid(ba481d31535f02a42916874a09b8b714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b79d954d3dfd8ed2e1ae20bf0e6859f') in 0.079014 seconds
+  Import took 0.086017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000613 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice61_61.png
+  artifactKey: Guid(aa835af910037a949b35fd7c7662d613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice61_61.png using Guid(aa835af910037a949b35fd7c7662d613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8a8e7d13be10095e4a632f499db6366') in 0.083139 seconds
+  Import took 0.094173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice35_35.png
+  artifactKey: Guid(c40bf47e9a93568458f63a0b4a120631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice35_35.png using Guid(c40bf47e9a93568458f63a0b4a120631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11aa7201d9bf9084ebe072e23dd060b1') in 0.063458 seconds
+  Import took 0.076709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice71_71.png
+  artifactKey: Guid(502ffa2da9540474cab75a01992a8c33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice71_71.png using Guid(502ffa2da9540474cab75a01992a8c33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '581cd0d8425fb7db96c093a394dca615') in 0.064772 seconds
+  Import took 0.072914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000513 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice86_86.png
+  artifactKey: Guid(1a9c7024c87bd874fbc2a5b52f9144ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice86_86.png using Guid(1a9c7024c87bd874fbc2a5b52f9144ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85a54c22ccc22959178c5f46af7fa8f3') in 0.072532 seconds
+  Import took 0.079842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice63_63.png
+  artifactKey: Guid(09aff48275e4ae448bd90e0b67e981e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice63_63.png using Guid(09aff48275e4ae448bd90e0b67e981e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd69c6a56fd6f4e6ca5a9e75d3500362') in 0.053313 seconds
+  Import took 0.064066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.476434 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Obstacles/obstacle (1).png
+  artifactKey: Guid(026956a522ecbee47984e3d0193620c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Obstacles/obstacle (1).png using Guid(026956a522ecbee47984e3d0193620c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39bded92ea5eec0a76b86460b3a35954') in 0.042762 seconds
+  Import took 0.052433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Obstacles/obstacle (14).png
+  artifactKey: Guid(530e54401011d0241a4ce38334148ab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Obstacles/obstacle (14).png using Guid(530e54401011d0241a4ce38334148ab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc0aa3240833de2bbf0735c4aa112bd3') in 0.073887 seconds
+  Import took 0.082469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000455 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Obstacles/obstacle (4).png
+  artifactKey: Guid(093b82081a76bc64e97879bdd3a0d201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Obstacles/obstacle (4).png using Guid(093b82081a76bc64e97879bdd3a0d201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5bef131b1d7cfa0247c59809dcf294b') in 0.054920 seconds
+  Import took 0.063383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Obstacles/obstacle (8).png
+  artifactKey: Guid(f2a65974a4d691047b219cc5c5789142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Obstacles/obstacle (8).png using Guid(f2a65974a4d691047b219cc5c5789142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a97b55a3b707b97f417e59bb03d366e2') in 0.054138 seconds
+  Import took 0.062388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Obstacles/obstacle (6).png
+  artifactKey: Guid(8f76a8297a1fca145a724c47042402a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Obstacles/obstacle (6).png using Guid(8f76a8297a1fca145a724c47042402a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccd8cbdffb76e5f6c95616bd56563ed2') in 0.058581 seconds
+  Import took 0.071740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Obstacles/obstacle (3).png
+  artifactKey: Guid(c9c8fc3b92b1d2340a2fa221839e270d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Obstacles/obstacle (3).png using Guid(c9c8fc3b92b1d2340a2fa221839e270d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4983cd807ffa35d29d1ae3d4e5fdea7d') in 0.061865 seconds
+  Import took 0.069198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Obstacles/obstacle (12).png
+  artifactKey: Guid(9bfcb0469caf5e743be459d784b2d1f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Obstacles/obstacle (12).png using Guid(9bfcb0469caf5e743be459d784b2d1f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'def04a1531250d55903339f54cc3b9b4') in 0.058703 seconds
+  Import took 0.065265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Obstacles/obstacles-01.png
+  artifactKey: Guid(dfb6a39b0b7eb4a4c94deaae4a0eee8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Obstacles/obstacles-01.png using Guid(dfb6a39b0b7eb4a4c94deaae4a0eee8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e48b42fd84216f67f34a848d5f23675') in 0.086626 seconds
+  Import took 0.098276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Obstacles/obstacle (13).png
+  artifactKey: Guid(a10322e6c80a14d4887d6128f8f6d3b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Obstacles/obstacle (13).png using Guid(a10322e6c80a14d4887d6128f8f6d3b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '733ba916f78a44b2c801246dbdb29216') in 0.052261 seconds
+  Import took 0.060079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000448 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Obstacles/obstacle (7).png
+  artifactKey: Guid(4a219bc1d9ba5af42ac6622179033228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Obstacles/obstacle (7).png using Guid(4a219bc1d9ba5af42ac6622179033228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd73e5d70f0f07d22e5c196853975f9a3') in 0.060726 seconds
+  Import took 0.071187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Obstacles/obstacle (9).png
+  artifactKey: Guid(661fcf58638674b44b6e5b5f2bd6638b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Obstacles/obstacle (9).png using Guid(661fcf58638674b44b6e5b5f2bd6638b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd490c358ecc6b4166604f4f6ae6cdc26') in 0.055734 seconds
+  Import took 0.067030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Obstacles/obstacle (2).png
+  artifactKey: Guid(1465e681b0aaeee43892b9ea59ef82c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Obstacles/obstacle (2).png using Guid(1465e681b0aaeee43892b9ea59ef82c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7520c352bcd671f76af46647956e30aa') in 0.052100 seconds
+  Import took 0.059518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000850 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Obstacles/obstacle (5).png
+  artifactKey: Guid(63851e7923796cb4aa02ac58380b60b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Obstacles/obstacle (5).png using Guid(63851e7923796cb4aa02ac58380b60b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '690e086d0104bced0860d8f27db2d63f') in 0.066630 seconds
+  Import took 0.077329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Obstacles/obstacle (2).png
+  artifactKey: Guid(1465e681b0aaeee43892b9ea59ef82c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Obstacles/obstacle (2).png using Guid(1465e681b0aaeee43892b9ea59ef82c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7520c352bcd671f76af46647956e30aa') in 0.029195 seconds
+  Import took 0.036600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000457 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Obstacles/obstacle (11).png
+  artifactKey: Guid(6347977308c84b84ead190b7a4da57af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Obstacles/obstacle (11).png using Guid(6347977308c84b84ead190b7a4da57af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1b735c71ad3c14b3baf1195c278dbed') in 0.056461 seconds
+  Import took 0.072357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Obstacles/obstacle (10).png
+  artifactKey: Guid(dee0b53db0a92a740a5b01a37b79971a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Obstacles/obstacle (10).png using Guid(dee0b53db0a92a740a5b01a37b79971a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39ef3c7c4849fb6dc1d08dcafecf16fa') in 0.069941 seconds
+  Import took 0.078432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.438104 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (1).png
+  artifactKey: Guid(ff5bcdfe34e428a4f9d4b4beef47692b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (1).png using Guid(ff5bcdfe34e428a4f9d4b4beef47692b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6739adf7f743fb82b3b69d13ece56bbc') in 0.048077 seconds
+  Import took 0.054306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (27).png
+  artifactKey: Guid(ac8ff90d53195614b8a03cbed6f2fc83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (27).png using Guid(ac8ff90d53195614b8a03cbed6f2fc83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66f5f8007ba4bc1f1b1f9c09e475c07a') in 0.076499 seconds
+  Import took 0.083913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (15).png
+  artifactKey: Guid(70c65a8b1c7d08f468c2f7e37791a849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (15).png using Guid(70c65a8b1c7d08f468c2f7e37791a849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c55ce732a6440d4594f82392cc914b3') in 0.068525 seconds
+  Import took 0.077962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000424 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (26).png
+  artifactKey: Guid(34668351e89a3674ca69653c4bc3d415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (26).png using Guid(34668351e89a3674ca69653c4bc3d415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd259a03cb6d9f264f0b986a02a6357a8') in 0.048586 seconds
+  Import took 0.054682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (19).png
+  artifactKey: Guid(57321b1abcea269489bc827f62eeb00d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (19).png using Guid(57321b1abcea269489bc827f62eeb00d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42e4d80a7bccc7551174a7d2dd40bedb') in 0.082415 seconds
+  Import took 0.090412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (28).png
+  artifactKey: Guid(009635cf28b32b4409a00bc6ca8b8159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (28).png using Guid(009635cf28b32b4409a00bc6ca8b8159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35bc838ea358e1143ac286d6383afc9d') in 0.087822 seconds
+  Import took 0.130107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000467 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (29).png
+  artifactKey: Guid(a558690af10b50041ae508869e8ac048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (29).png using Guid(a558690af10b50041ae508869e8ac048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0949c7d2036f897d0c0d13608d567ba3') in 0.081508 seconds
+  Import took 0.092751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (13).png
+  artifactKey: Guid(ac959776608e852428b2277c13521609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (13).png using Guid(ac959776608e852428b2277c13521609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd8693cfd01233ddc404585423ee4289') in 0.090170 seconds
+  Import took 0.100746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000406 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (24).png
+  artifactKey: Guid(3944b7d6c6dd923418e9345d763db4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (24).png using Guid(3944b7d6c6dd923418e9345d763db4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb419e9efbbe749ed4d3511ad91ecb5b') in 0.071431 seconds
+  Import took 0.088882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (12).png
+  artifactKey: Guid(6549efe34d4203d4eb1e12a24e9465ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (12).png using Guid(6549efe34d4203d4eb1e12a24e9465ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '721b01b5083fdc0dd5c3b5def0808b21') in 0.063950 seconds
+  Import took 0.074300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000924 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (2).png
+  artifactKey: Guid(5caa65292dd5b434b9d1095f09ec492d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (2).png using Guid(5caa65292dd5b434b9d1095f09ec492d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d39d1aeb8a269bd7b107e0c7ca4675f') in 0.073970 seconds
+  Import took 0.083590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000415 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (16).png
+  artifactKey: Guid(8ad819820831c6541acf2ecf6044da46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (16).png using Guid(8ad819820831c6541acf2ecf6044da46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6114b2215bc26955faf2a485a4a26a42') in 0.105981 seconds
+  Import took 0.114823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (14).png
+  artifactKey: Guid(58aa1fb33f86c4c429b03c6fdc1dc45c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (14).png using Guid(58aa1fb33f86c4c429b03c6fdc1dc45c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faa6aba382e77b91945f7b170008660f') in 0.086666 seconds
+  Import took 0.097433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (22).png
+  artifactKey: Guid(990f67b4e8deb88418e15a43f5cab541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (22).png using Guid(990f67b4e8deb88418e15a43f5cab541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '785b0d5b2bc4cd41adaa6c02d2c296e9') in 0.082841 seconds
+  Import took 0.092449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (5).png
+  artifactKey: Guid(3e1729dcac3797549b17268b61586d09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (5).png using Guid(3e1729dcac3797549b17268b61586d09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a139040a8e8aa4dcd7071c5616c1904') in 0.083458 seconds
+  Import took 0.090487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (3).png
+  artifactKey: Guid(ea863d8a1b8b7b948983649cf7681579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (3).png using Guid(ea863d8a1b8b7b948983649cf7681579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '645c5c6e06aa0d9ef22fdd8b2602552c') in 0.109302 seconds
+  Import took 0.131165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/weapon.png
+  artifactKey: Guid(f363ed4ed343cd844922a69ad652a2f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/weapon.png using Guid(f363ed4ed343cd844922a69ad652a2f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaae1aaaa48dd9b81c230e5c143fe703') in 0.066608 seconds
+  Import took 0.077655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (9).png
+  artifactKey: Guid(c16b591c40f07d946b59b10f72d607ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (9).png using Guid(c16b591c40f07d946b59b10f72d607ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d8af8dfe9ea377b507f0284b56bc828') in 0.082559 seconds
+  Import took 0.089563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (10).png
+  artifactKey: Guid(c04949d19629e064aa548ae57e21100b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (10).png using Guid(c04949d19629e064aa548ae57e21100b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5c44d2bb1390257db27f79c197c1c31') in 0.105129 seconds
+  Import took 0.118755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (4).png
+  artifactKey: Guid(da7490cfe12ca2f439d82c147c9c970c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (4).png using Guid(da7490cfe12ca2f439d82c147c9c970c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b18829152ef2a67b2c3ed3047a090e53') in 0.100802 seconds
+  Import took 0.111734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (18).png
+  artifactKey: Guid(1821fdfbd7acfca46bf8edfdf8cac42e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (18).png using Guid(1821fdfbd7acfca46bf8edfdf8cac42e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a19fa9500d342d7c913c2d10855998a6') in 0.124921 seconds
+  Import took 0.131713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (31).png
+  artifactKey: Guid(d80cca2b81870e948aa1b9b512c44ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (31).png using Guid(d80cca2b81870e948aa1b9b512c44ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3573989580f8588b7fc21bd03d6dab17') in 0.077060 seconds
+  Import took 0.083410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (17).png
+  artifactKey: Guid(075a1d7d03a7e644f9c79f8506eefd37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (17).png using Guid(075a1d7d03a7e644f9c79f8506eefd37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2550c64ba2fbc88ace41fd561591329f') in 0.065774 seconds
+  Import took 0.075539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (11).png
+  artifactKey: Guid(e0ff3359b3179754785e4d4c267d1f61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (11).png using Guid(e0ff3359b3179754785e4d4c267d1f61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16974d912f1d8ad1cf1a0e79a13aa2f1') in 0.066176 seconds
+  Import took 0.072476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (17).png
+  artifactKey: Guid(075a1d7d03a7e644f9c79f8506eefd37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (17).png using Guid(075a1d7d03a7e644f9c79f8506eefd37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2550c64ba2fbc88ace41fd561591329f') in 0.051440 seconds
+  Import took 0.059902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (30).png
+  artifactKey: Guid(ab30ade8f154ba745bc9caf076f38e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (30).png using Guid(ab30ade8f154ba745bc9caf076f38e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfc2135db34eec348ca0f1010d2d78f2') in 0.064565 seconds
+  Import took 0.070448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (6).png
+  artifactKey: Guid(38f7cf848ce70fa4cba7772c205f695d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (6).png using Guid(38f7cf848ce70fa4cba7772c205f695d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b07c3015de859ce9d99d13a2d510d16e') in 0.068169 seconds
+  Import took 0.078781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (8).png
+  artifactKey: Guid(d216fca7ad5ed0f43b220ef5ef1f8237) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (8).png using Guid(d216fca7ad5ed0f43b220ef5ef1f8237) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cc564cf60a6967e9f220d955f6332ac') in 0.054204 seconds
+  Import took 0.060438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (6).png
+  artifactKey: Guid(38f7cf848ce70fa4cba7772c205f695d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (6).png using Guid(38f7cf848ce70fa4cba7772c205f695d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b07c3015de859ce9d99d13a2d510d16e') in 0.054539 seconds
+  Import took 0.075102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000516 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (7).png
+  artifactKey: Guid(a257fd88af004ed47b3f3e61da6d872e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (7).png using Guid(a257fd88af004ed47b3f3e61da6d872e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '327d6b45a2b3cd5513830b99160b8ffa') in 0.074315 seconds
+  Import took 0.081948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (20).png
+  artifactKey: Guid(aa54822189a185f4d9a9d441fbd2cb2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (20).png using Guid(aa54822189a185f4d9a9d441fbd2cb2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21bb54e75bee45c9bebe19c90f25499d') in 0.066793 seconds
+  Import took 0.071311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (21).png
+  artifactKey: Guid(4839f7b3a989f834ea0b098df56f7d51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (21).png using Guid(4839f7b3a989f834ea0b098df56f7d51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cc10fb5597bae51b4cd04b429ea62ed') in 0.072668 seconds
+  Import took 0.082482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (23).png
+  artifactKey: Guid(fe4b9a946a3dcf944b67d4b18c2bb9d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (23).png using Guid(fe4b9a946a3dcf944b67d4b18c2bb9d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c5a5ac2ad6eda23feb4f820925786cb') in 0.075129 seconds
+  Import took 0.090782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/image (25).png
+  artifactKey: Guid(b3b0e4dbb728e014faa324073853b026) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/image (25).png using Guid(b3b0e4dbb728e014faa324073853b026) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '049e000414bff17bbba74c8bb4fb3782') in 0.080984 seconds
+  Import took 0.087921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Elements/Platform Elements-01.png
+  artifactKey: Guid(24e236562b8938d43a8a90d627970611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Elements/Platform Elements-01.png using Guid(24e236562b8938d43a8a90d627970611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80c714a94a0213156b3ad9c8c1d68f92') in 0.135465 seconds
+  Import took 0.145191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.435650 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-01.png
+  artifactKey: Guid(f92ab002df3545942867f748796887b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-01.png using Guid(f92ab002df3545942867f748796887b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '890981167daace62ae3d46f600b4e0b2') in 0.051342 seconds
+  Import took 0.066044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-04.png
+  artifactKey: Guid(4785b30ddd3501749a78252bfccca4f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-04.png using Guid(4785b30ddd3501749a78252bfccca4f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e647e4c54376bec5997c55a09aaba9b9') in 0.070602 seconds
+  Import took 0.081096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-06.png
+  artifactKey: Guid(8cf3bb3ea3fd095468fd72966652b777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-06.png using Guid(8cf3bb3ea3fd095468fd72966652b777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '566419a7197d2c5f90879386b8082671') in 0.053547 seconds
+  Import took 0.059956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-05.png
+  artifactKey: Guid(e8e1c7773c9b4dc43a5f0e889311b131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-05.png using Guid(e8e1c7773c9b4dc43a5f0e889311b131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1989a4b471e1fb3dc2b185b6c73e9e7d') in 0.069388 seconds
+  Import took 0.078632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-09.png
+  artifactKey: Guid(b6c65b74998a8a14a932fa2f5df2afd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-09.png using Guid(b6c65b74998a8a14a932fa2f5df2afd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '817c7e8a870e8d0599109644088ca0cc') in 0.054326 seconds
+  Import took 0.059402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-21.png
+  artifactKey: Guid(edb86b8007e744241a67153eda2a224c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-21.png using Guid(edb86b8007e744241a67153eda2a224c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9c169974e90cd381945d5ff52be4b92') in 0.056648 seconds
+  Import took 0.065223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-22.png
+  artifactKey: Guid(5652afcc4ec196645974ab136421a754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-22.png using Guid(5652afcc4ec196645974ab136421a754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23e8fe9b132937a619cb426c2b28c7d6') in 0.051719 seconds
+  Import took 0.059221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-15.png
+  artifactKey: Guid(16160c8d96136d2429e1deb0cded14bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-15.png using Guid(16160c8d96136d2429e1deb0cded14bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8405d2cc1770daf8d1106da639feafed') in 0.056482 seconds
+  Import took 0.064128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-02.png
+  artifactKey: Guid(6b815452fc891c749b2ce3ce2c90f814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-02.png using Guid(6b815452fc891c749b2ce3ce2c90f814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fef64b1748b79dd345779099da57a147') in 0.064585 seconds
+  Import took 0.074395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-13.png
+  artifactKey: Guid(481f257b105227f40bcebfebfc2e54ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-13.png using Guid(481f257b105227f40bcebfebfc2e54ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '117a9c39b84cce0a3b363bc1b92f29ea') in 0.054609 seconds
+  Import took 0.061478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-02.png
+  artifactKey: Guid(6b815452fc891c749b2ce3ce2c90f814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-02.png using Guid(6b815452fc891c749b2ce3ce2c90f814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fef64b1748b79dd345779099da57a147') in 0.072755 seconds
+  Import took 0.085901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-16.png
+  artifactKey: Guid(74a57e67b69928e49ac2baaa0f6d33ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-16.png using Guid(74a57e67b69928e49ac2baaa0f6d33ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cc45da76b5b3039db5a819e1b8e0d29') in 0.053736 seconds
+  Import took 0.060535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000512 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-18.png
+  artifactKey: Guid(be53a18ab86ac5d49beb1bd61dfe45d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-18.png using Guid(be53a18ab86ac5d49beb1bd61dfe45d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a292ba61eb09ec8a942d36f9e2f2e6e9') in 0.064232 seconds
+  Import took 0.075480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-17.png
+  artifactKey: Guid(7dca8cce02dfcc64c9e937242477291d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-17.png using Guid(7dca8cce02dfcc64c9e937242477291d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a168be5633c28616fcdca4ee725fb81') in 0.061541 seconds
+  Import took 0.068608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-08.png
+  artifactKey: Guid(ace672b6c2128eb4e9d69bf4fee50154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-08.png using Guid(ace672b6c2128eb4e9d69bf4fee50154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb5f210c24249f5fc418fc91bbcf5459') in 0.051667 seconds
+  Import took 0.062416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000572 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-19.png
+  artifactKey: Guid(8f8c1590a99ba7d4ebb66fd3f5e911ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-19.png using Guid(8f8c1590a99ba7d4ebb66fd3f5e911ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ecaf99ecc8e0fafa59d13d9301b1c3b') in 0.068192 seconds
+  Import took 0.073948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-12.png
+  artifactKey: Guid(b53a31562904efe4c8f529906c50175b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-12.png using Guid(b53a31562904efe4c8f529906c50175b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d036eb86e4826a820760462325eb67f') in 0.053189 seconds
+  Import took 0.062256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-07.png
+  artifactKey: Guid(4fb2c32e90e82a149adf50119f12af1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-07.png using Guid(4fb2c32e90e82a149adf50119f12af1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1401cb76dc9ebb66e32f705b804ade3b') in 0.073014 seconds
+  Import took 0.079218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-10.png
+  artifactKey: Guid(1b807b2bb9d164c47a3991b5a9135d8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-10.png using Guid(1b807b2bb9d164c47a3991b5a9135d8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bede1064b5ac67543ca46104f77347fc') in 0.061466 seconds
+  Import took 0.069847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-11.png
+  artifactKey: Guid(ef47be9d70ecba34c809439dce8c1bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-11.png using Guid(ef47be9d70ecba34c809439dce8c1bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc29bced034556ff0fd36ffcbe3c1dbf') in 0.058094 seconds
+  Import took 0.064989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-14.png
+  artifactKey: Guid(d38b911b5a6e8424a9d58a00f110c6f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-14.png using Guid(d38b911b5a6e8424a9d58a00f110c6f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b2a06d60a6a0c992d14bf9cd69dabb4') in 0.062575 seconds
+  Import took 0.068557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-03.png
+  artifactKey: Guid(c350d6379f2fdd54a854e5cc92310fbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-03.png using Guid(c350d6379f2fdd54a854e5cc92310fbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e10887030ea3daa92b3febcd7197998') in 0.073568 seconds
+  Import took 0.079812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-20.png
+  artifactKey: Guid(45470205c94367d4ca7e1befe6891607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Platform Tile Sets/Platform-20.png using Guid(45470205c94367d4ca7e1befe6891607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd065286c8d51b931ab7dadea08fe90cb') in 0.082677 seconds
+  Import took 0.092945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.593128 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Spriter/image-01.png
+  artifactKey: Guid(d095f6e65ebd94d4f9bb0e9c5df4e35a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Spriter/image-01.png using Guid(d095f6e65ebd94d4f9bb0e9c5df4e35a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5b307a1123cb4367eb92442cba88b83') in 0.120107 seconds
+  Import took 0.131928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Spriter/image-12.png
+  artifactKey: Guid(59a36ac4375420342beadc5c6b63e62c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Spriter/image-12.png using Guid(59a36ac4375420342beadc5c6b63e62c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55f3058a19aaac753dfc477cc96878e0') in 0.062790 seconds
+  Import took 0.082693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Spriter/image-02.png
+  artifactKey: Guid(442f3e928a1c2474392f0b759197b69b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Spriter/image-02.png using Guid(442f3e928a1c2474392f0b759197b69b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd25da1086b8bc38d80ceaf3024939c5') in 0.066577 seconds
+  Import took 0.077500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Spriter/image-05.png
+  artifactKey: Guid(d4a151ecc60a38045821898f462ede9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Spriter/image-05.png using Guid(d4a151ecc60a38045821898f462ede9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd200966c5f8a440987709e0a2babedf6') in 0.103940 seconds
+  Import took 0.112991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000460 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Spriter/image-02.png
+  artifactKey: Guid(442f3e928a1c2474392f0b759197b69b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Spriter/image-02.png using Guid(442f3e928a1c2474392f0b759197b69b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd25da1086b8bc38d80ceaf3024939c5') in 0.040961 seconds
+  Import took 0.052128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Spriter/image-10.png
+  artifactKey: Guid(ca493a5fdfab19045b2e2f966aa16bd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Spriter/image-10.png using Guid(ca493a5fdfab19045b2e2f966aa16bd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6466e8c4032697095c69937edce0d7f') in 0.050183 seconds
+  Import took 0.056263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000702 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Spriter/Splash.png
+  artifactKey: Guid(25f26884751a4ae419fcd62ca7065704) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Spriter/Splash.png using Guid(25f26884751a4ae419fcd62ca7065704) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8824a96c93cfe03121846aad59355570') in 0.054017 seconds
+  Import took 0.066308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Spriter/image-08.png
+  artifactKey: Guid(2772139dd9dba294fbf51a1378b95d19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Spriter/image-08.png using Guid(2772139dd9dba294fbf51a1378b95d19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ba77c67eb71ae62910ae308605f60e3') in 0.055788 seconds
+  Import took 0.065033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Spriter/image-04.png
+  artifactKey: Guid(33e20db0d833f5546844c067808a327a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Spriter/image-04.png using Guid(33e20db0d833f5546844c067808a327a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd5f667fd9ff0ff52729acec6a7961c6') in 0.054534 seconds
+  Import took 0.064666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Spriter/image-07.png
+  artifactKey: Guid(b2faaf9b31abdea4d926bfdb3b619ccb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Spriter/image-07.png using Guid(b2faaf9b31abdea4d926bfdb3b619ccb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb36a01a151bffe6cb332f62c5aff19c') in 0.055935 seconds
+  Import took 0.065403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000444 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Spriter/weapon.png
+  artifactKey: Guid(7c0c54bda4afc56419626ea75e04a0c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Spriter/weapon.png using Guid(7c0c54bda4afc56419626ea75e04a0c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4ef3b20a184fde2ae690c1fa5ce7383') in 0.041564 seconds
+  Import took 0.048474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Spriter/image-06.png
+  artifactKey: Guid(5ac8c9282a5123645a59221905f69f1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Spriter/image-06.png using Guid(5ac8c9282a5123645a59221905f69f1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '383c649c3d88679cd17f1b79e140dc29') in 0.094817 seconds
+  Import took 0.102585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Spriter/image-09.png
+  artifactKey: Guid(2077ab4d94812494aa21be19506389b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Spriter/image-09.png using Guid(2077ab4d94812494aa21be19506389b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a5c6efbe326eb6342489fb9ec0e005e') in 0.051761 seconds
+  Import took 0.074227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Spriter/image-03.png
+  artifactKey: Guid(0b8bb1a56236a2943850efc1e727c7e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Spriter/image-03.png using Guid(0b8bb1a56236a2943850efc1e727c7e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08983de44654dc38f30c03894d4b2148') in 0.053668 seconds
+  Import took 0.064646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Spriter/image-11.png
+  artifactKey: Guid(66fbb2aa23a2ec94998b60b48f5fc741) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Spriter/image-11.png using Guid(66fbb2aa23a2ec94998b60b48f5fc741) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfa386a73598f9cb449514be61f73930') in 0.064008 seconds
+  Import took 0.072574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.217329 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a59ef0011206403181b6dace8b464c4') in 0.022491 seconds
+  Import took 0.028626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 143.994743 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/Game Ui-01.png
+  artifactKey: Guid(17c1018ddd5028440b7419dc406448ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/Game Ui-01.png using Guid(17c1018ddd5028440b7419dc406448ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f59052e380493f90fdf715000eb328b') in 0.125907 seconds
+  Import took 0.137286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice13_13.png
+  artifactKey: Guid(01d62cb2b40c4f74a9b79246001daba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice13_13.png using Guid(01d62cb2b40c4f74a9b79246001daba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9077c342268001bff5bf8e48f22021b8') in 0.069305 seconds
+  Import took 0.074201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice05_05.png
+  artifactKey: Guid(3cdad1bd4574d2843a84dea548c25203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice05_05.png using Guid(3cdad1bd4574d2843a84dea548c25203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3556b29fffdfccf9512ca3ad4a62615') in 0.066103 seconds
+  Import took 0.071666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice29_29.png
+  artifactKey: Guid(1c9776619fc97174fb1a128c1be684f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice29_29.png using Guid(1c9776619fc97174fb1a128c1be684f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b08c22ad1f9e44823ae095c79cf01a3a') in 0.054338 seconds
+  Import took 0.064123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice17_17.png
+  artifactKey: Guid(737ecacd7e8793b478aa8deb9fd87a88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice17_17.png using Guid(737ecacd7e8793b478aa8deb9fd87a88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18e60d7a0a57a1caf0de96fd47af2448') in 0.067328 seconds
+  Import took 0.081905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice23_23.png
+  artifactKey: Guid(4601c162d9d88794d8ad2dfcb4de2444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice23_23.png using Guid(4601c162d9d88794d8ad2dfcb4de2444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecce371491ace849ffb99aa12f4ed861') in 0.058944 seconds
+  Import took 0.066728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice24_24.png
+  artifactKey: Guid(93cc04461a2e61c42a6e474108e22554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice24_24.png using Guid(93cc04461a2e61c42a6e474108e22554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6be65cfeca454f4a21c0b91ca6070879') in 0.052573 seconds
+  Import took 0.061721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000412 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice02_02.png
+  artifactKey: Guid(5f3799a355f34c14abe8bffb5e1b795f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice02_02.png using Guid(5f3799a355f34c14abe8bffb5e1b795f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf31f287f621c22f18eb77e4292eb21d') in 0.050387 seconds
+  Import took 0.061534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice07_07.png
+  artifactKey: Guid(5c6b1f614f16b504693718dbd57eef09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice07_07.png using Guid(5c6b1f614f16b504693718dbd57eef09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92297551cffa5b58d62d35ed8245908a') in 0.050105 seconds
+  Import took 0.059303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000434 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice26_26.png
+  artifactKey: Guid(e099cdbff82b7794e906c2e0089ccdb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice26_26.png using Guid(e099cdbff82b7794e906c2e0089ccdb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35192a132f791910b55785bb3a361f41') in 0.066957 seconds
+  Import took 0.079505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice16_16.png
+  artifactKey: Guid(9ba817c5eb0cb7d419e0b00469d51f44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice16_16.png using Guid(9ba817c5eb0cb7d419e0b00469d51f44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1d1a4a8d978f5574d905585ddf1e43d') in 0.065167 seconds
+  Import took 0.071278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000531 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice15_15.png
+  artifactKey: Guid(524e56df87aae5544972ff122cee3f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice15_15.png using Guid(524e56df87aae5544972ff122cee3f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89f52bb615ce13694f831b48958ec223') in 0.060113 seconds
+  Import took 0.069822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000457 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice04_04.png
+  artifactKey: Guid(8f6a6ed2fa09a0e45afa993adc814f6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice04_04.png using Guid(8f6a6ed2fa09a0e45afa993adc814f6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0639b6d3034ed09fce55e5b410a5bd83') in 0.065453 seconds
+  Import took 0.073307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000490 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice27_27.png
+  artifactKey: Guid(3ee36aa7ee071364fb67dfb36439a9cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice27_27.png using Guid(3ee36aa7ee071364fb67dfb36439a9cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b93b508c6a79a06f432cb7459ffbfb3d') in 0.077469 seconds
+  Import took 0.091573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice28_28.png
+  artifactKey: Guid(411dc76b42e232f468a522f0028517b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice28_28.png using Guid(411dc76b42e232f468a522f0028517b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48281602ead428f53cedcd6fbac6a97c') in 0.092083 seconds
+  Import took 0.102189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice18_18.png
+  artifactKey: Guid(727791a2070476b479aae6708d076347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice18_18.png using Guid(727791a2070476b479aae6708d076347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e2311d72a921c4e0682f257fcfde563') in 0.085017 seconds
+  Import took 0.091175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice08_08.png
+  artifactKey: Guid(0f207d0c08709974a9e4e63d5aee33a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice08_08.png using Guid(0f207d0c08709974a9e4e63d5aee33a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed7e0adf7e1d4e9795e26e3bb66336b2') in 0.061215 seconds
+  Import took 0.072681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice25_25.png
+  artifactKey: Guid(6642f673843b7ed4fb817478b0814b06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice25_25.png using Guid(6642f673843b7ed4fb817478b0814b06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56d88b9a349a2cf66a2c3abb0d74e208') in 0.107908 seconds
+  Import took 0.117509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000496 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice22_22.png
+  artifactKey: Guid(c9e7da0f30af699439f4399baad201a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice22_22.png using Guid(c9e7da0f30af699439f4399baad201a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b0b48fb85426c0c80bc7af0162eceab') in 0.076718 seconds
+  Import took 0.084188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice09_09.png
+  artifactKey: Guid(e8e615a3d57f53e4ca052c60ad1d6880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice09_09.png using Guid(e8e615a3d57f53e4ca052c60ad1d6880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea5a663218547f6664f98691cef9405d') in 0.074933 seconds
+  Import took 0.082522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice21_21.png
+  artifactKey: Guid(cd8a19ca6f1bdf4468e8f9bda010b637) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice21_21.png using Guid(cd8a19ca6f1bdf4468e8f9bda010b637) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e546393adbedd8aa24b9bf22cdd7d868') in 0.074652 seconds
+  Import took 0.082209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice14_14.png
+  artifactKey: Guid(8172b9d664a9bb64593f8fb92feeef2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice14_14.png using Guid(8172b9d664a9bb64593f8fb92feeef2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb5569d28376f99b1ffb5f20936dd0bf') in 0.075874 seconds
+  Import took 0.084565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice01_01.png
+  artifactKey: Guid(e1f6f02f88e2d904189c53beb216eeaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice01_01.png using Guid(e1f6f02f88e2d904189c53beb216eeaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8848f8e7999b6b0a2964f11adbd552c7') in 0.072350 seconds
+  Import took 0.080462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice11_11.png
+  artifactKey: Guid(112890c74fbabff4f8168e0a907b141b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice11_11.png using Guid(112890c74fbabff4f8168e0a907b141b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f4c7164d574ee38c7e07bb7018bf7d6') in 0.077418 seconds
+  Import took 0.084155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice06_06.png
+  artifactKey: Guid(4a8b1b30a686e6945b3d6d9a64393e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice06_06.png using Guid(4a8b1b30a686e6945b3d6d9a64393e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ebd85e8d0290e449aa6ae7ce47d8ac6') in 0.062103 seconds
+  Import took 0.069176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice12_12.png
+  artifactKey: Guid(ec88f755ff965dc44abf99658f44187f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice12_12.png using Guid(ec88f755ff965dc44abf99658f44187f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ce54cf94eeaa7c67b293b27b4a228cc') in 0.057496 seconds
+  Import took 0.063959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice20_20.png
+  artifactKey: Guid(b94cda1ee8928e248a03261fcc12a2e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice20_20.png using Guid(b94cda1ee8928e248a03261fcc12a2e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9fa9339780fe9138443dd335dc60911') in 0.050479 seconds
+  Import took 0.060411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice03_03.png
+  artifactKey: Guid(7a9c132698313254c9f31de1ebbdd5a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice03_03.png using Guid(7a9c132698313254c9f31de1ebbdd5a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '646e7d5715ae3f0168c5d6154e85f2d2') in 0.062452 seconds
+  Import took 0.069000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice19_19.png
+  artifactKey: Guid(6ea2d77deb11a1d4389a6526af4ff131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice19_19.png using Guid(6ea2d77deb11a1d4389a6526af4ff131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f934006a28364fd5eec512b503917bb') in 0.065544 seconds
+  Import took 0.072280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Game Ui/slice10_10.png
+  artifactKey: Guid(2d32f1138004c9b45937e50c07468553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Game Ui/slice10_10.png using Guid(2d32f1138004c9b45937e50c07468553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09b49e5b3665bda1e0825c258630c7f4') in 0.059614 seconds
+  Import took 0.068515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2420.378808 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites
+  artifactKey: Guid(2f1d35074739f9b44a1d528d42126a1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites using Guid(2f1d35074739f9b44a1d528d42126a1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dcb0daf1358d922657ebc5b7cfd4550') in 0.014610 seconds
+  Import took 0.036840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.171190 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2e0e235c0f4af3754229b664788db90') in 0.018036 seconds
+  Import took 0.023172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.809042 seconds.
+  path: Assets/Animaciones
+  artifactKey: Guid(3871befbf3930114a9085ce34b8f6a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones using Guid(3871befbf3930114a9085ce34b8f6a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82a45d0869b90e8acd04f7fc23e58d35') in 0.015982 seconds
+  Import took 0.023972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003635 seconds.
+  path: Assets/Animaciones
+  artifactKey: Guid(3871befbf3930114a9085ce34b8f6a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones using Guid(3871befbf3930114a9085ce34b8f6a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82a45d0869b90e8acd04f7fc23e58d35') in 0.006238 seconds
+  Import took 0.012910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.373444 seconds.
+  path: Assets/Animaciones/Parado.anim
+  artifactKey: Guid(ab8b1d2628c81fb4fb6e127169cbd80c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/Parado.anim using Guid(ab8b1d2628c81fb4fb6e127169cbd80c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c26e9b83cf53b3c49ea44bb422532ea1') in 0.026607 seconds
+  Import took 0.032599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.293726 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/New Animation.anim
+  artifactKey: Guid(b33b42fe883b49b469b1cc5b0225d5af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/New Animation.anim using Guid(b33b42fe883b49b469b1cc5b0225d5af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f13ade04d1112fc0213b6a4f10c73684') in 0.019419 seconds
+  Import took 0.028522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.916114 seconds.
+  path: Assets/Animaciones/Idle_000.png
+  artifactKey: Guid(a28efc13001928b4c8f366fe1449ae19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/Idle_000.png using Guid(a28efc13001928b4c8f366fe1449ae19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c11b004d224fbceadf2eb1e270d00bf') in 0.071338 seconds
+  Import took 0.080860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Animaciones/Idle_006.png
+  artifactKey: Guid(756b999693d59f64abd4c687f091f96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/Idle_006.png using Guid(756b999693d59f64abd4c687f091f96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b43b48e0c921654e7bbe68efeaaebc84') in 0.050139 seconds
+  Import took 0.059283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000720 seconds.
+  path: Assets/Animaciones/Idle_009.png
+  artifactKey: Guid(791e179ebea58b344b95b78117e65275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/Idle_009.png using Guid(791e179ebea58b344b95b78117e65275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31533089df445cf8d70c1cd9892da45e') in 0.039404 seconds
+  Import took 0.050972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000528 seconds.
+  path: Assets/Animaciones/Idle_008.png
+  artifactKey: Guid(72a5f757f0a336042827d7ef16b61896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/Idle_008.png using Guid(72a5f757f0a336042827d7ef16b61896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ef403d2984c3d0f44424b12efae7de5') in 0.055970 seconds
+  Import took 0.064695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000847 seconds.
+  path: Assets/Animaciones/Idle_005.png
+  artifactKey: Guid(e5d1e41657db0944f8cc3f68f3825160) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/Idle_005.png using Guid(e5d1e41657db0944f8cc3f68f3825160) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8f98215a24ee3a617b72993d6e0ad71') in 0.047663 seconds
+  Import took 0.055342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/Animaciones/Idle_010.png
+  artifactKey: Guid(a308a8ae493b77c47b1b5bc8ab3975c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/Idle_010.png using Guid(a308a8ae493b77c47b1b5bc8ab3975c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '672c347efb07e72fb43bdf39a5ab8c68') in 0.050623 seconds
+  Import took 0.060892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Animaciones/Idle_001.png
+  artifactKey: Guid(fb7a2b9aa2b2a2745b2efc59e1111c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/Idle_001.png using Guid(fb7a2b9aa2b2a2745b2efc59e1111c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '165f7d8ae6981f4dbf5d840c19bf7698') in 0.042526 seconds
+  Import took 0.049407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Animaciones/Idle_011.png
+  artifactKey: Guid(9569296da1b1e75498497446d4497138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/Idle_011.png using Guid(9569296da1b1e75498497446d4497138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d157131576b884ff2031b7bcaceee4d') in 0.045182 seconds
+  Import took 0.050636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Animaciones/Idle_002.png
+  artifactKey: Guid(08007d5937bf3b34fa85b49033a6a41d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/Idle_002.png using Guid(08007d5937bf3b34fa85b49033a6a41d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '563dae8187784049bce1fead43ce2393') in 0.054529 seconds
+  Import took 0.063226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Animaciones/Idle_003.png
+  artifactKey: Guid(1c605ff897a1b11478539140b38c601a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/Idle_003.png using Guid(1c605ff897a1b11478539140b38c601a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13facb1e782142a0f2b1cf84baa4f7a3') in 0.058093 seconds
+  Import took 0.067344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Animaciones/Idle_002.png
+  artifactKey: Guid(08007d5937bf3b34fa85b49033a6a41d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/Idle_002.png using Guid(08007d5937bf3b34fa85b49033a6a41d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '563dae8187784049bce1fead43ce2393') in 0.048779 seconds
+  Import took 0.056511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000631 seconds.
+  path: Assets/Animaciones/Idle_004.png
+  artifactKey: Guid(576176bcd16b32f4084c7f6b47782411) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/Idle_004.png using Guid(576176bcd16b32f4084c7f6b47782411) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '306ac23e5f6a80aa24294ff94a544363') in 0.044823 seconds
+  Import took 0.053989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000578 seconds.
+  path: Assets/Animaciones/Idle_007.png
+  artifactKey: Guid(4c351abcc5689ec46b56fe5ed881836a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/Idle_007.png using Guid(4c351abcc5689ec46b56fe5ed881836a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ea546be5188b93c4eacecf79260190c') in 0.040822 seconds
+  Import took 0.047436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000437 seconds.
+  path: Assets/Animaciones/Idle_000.png
+  artifactKey: Guid(a28efc13001928b4c8f366fe1449ae19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/Idle_000.png using Guid(a28efc13001928b4c8f366fe1449ae19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c11b004d224fbceadf2eb1e270d00bf') in 0.039657 seconds
+  Import took 0.047310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 233.386788 seconds.
+  path: Assets/Animaciones/Idle_000.controller
+  artifactKey: Guid(189a76780a17a0c48b545b96258067ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/Idle_000.controller using Guid(189a76780a17a0c48b545b96258067ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05f0702413ee8cc25923da057eceaa74') in 0.047688 seconds
+  Import took 0.084583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003431 seconds.
+  path: Assets/Animaciones/Idle_000.controller
+  artifactKey: Guid(189a76780a17a0c48b545b96258067ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/Idle_000.controller using Guid(189a76780a17a0c48b545b96258067ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05f0702413ee8cc25923da057eceaa74') in 0.010386 seconds
+  Import took 0.017638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.631852 seconds.
+  path: Assets/Animaciones/Player_parado.controller
+  artifactKey: Guid(189a76780a17a0c48b545b96258067ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/Player_parado.controller using Guid(189a76780a17a0c48b545b96258067ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6839f0b686245699fbea75ca84cd833') in 0.021374 seconds
+  Import took 0.028479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.067299 seconds.
+  path: Assets/Animaciones/Player_Idle.anim
+  artifactKey: Guid(d956d97f052940443b537f8ec077aafc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/Player_Idle.anim using Guid(d956d97f052940443b537f8ec077aafc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5bb82dcb49f460a85448dd459615019') in 0.038555 seconds
+  Import took 0.050118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 146.644803 seconds.
+  path: Assets/Animaciones/Player_parado.anim
+  artifactKey: Guid(44438a9e8b6cb4542b2267f4fa92c2f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/Player_parado.anim using Guid(44438a9e8b6cb4542b2267f4fa92c2f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f968ca741bb90b1061ec93dba0536768') in 0.006966 seconds
+  Import took 0.017680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 159.759797 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Parado
+  artifactKey: Guid(9a1d170a73009b6469436208f5970b5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Parado using Guid(9a1d170a73009b6469436208f5970b5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ef0a6db5c35fbdd30bcaf463ff65a3a') in 0.015958 seconds
+  Import took 0.022651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.401970 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Caminar
+  artifactKey: Guid(56479030658f278468cd6940b292332c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Caminar using Guid(56479030658f278468cd6940b292332c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4176e81d315266e7badd301f9ab4c6e') in 0.021705 seconds
+  Import took 0.029057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010968 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Caminar
+  artifactKey: Guid(56479030658f278468cd6940b292332c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Caminar using Guid(56479030658f278468cd6940b292332c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4176e81d315266e7badd301f9ab4c6e') in 0.004967 seconds
+  Import took 0.014804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.039322 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Correr
+  artifactKey: Guid(61760c1162f0b294f919da0bf75cde80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Correr using Guid(61760c1162f0b294f919da0bf75cde80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bf8e1a7bbf01e83b24ce569760ca895') in 0.026874 seconds
+  Import took 0.033774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.661573 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Saltar
+  artifactKey: Guid(d277f5fa22bdf2f4cba5a2fc26de3daa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Saltar using Guid(d277f5fa22bdf2f4cba5a2fc26de3daa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eed4703b36bde661eda5c815653338f') in 0.021266 seconds
+  Import took 0.029483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.756651 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Deslizarse
+  artifactKey: Guid(fba57113e9813df41bea7263f95d6938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Deslizarse using Guid(fba57113e9813df41bea7263f95d6938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dffaf2eabdd73f48c66c9f8f65e65192') in 0.020194 seconds
+  Import took 0.028842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.022738 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Golpe1
+  artifactKey: Guid(db0b2ab916d866245bcb0d2243c78257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Golpe1 using Guid(db0b2ab916d866245bcb0d2243c78257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f96869a5fee1878775669ab743e5d012') in 0.020966 seconds
+  Import took 0.027299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.561357 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Golpe2
+  artifactKey: Guid(60780a7b9994ee544bbe65cb22bf1cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Golpe2 using Guid(60780a7b9994ee544bbe65cb22bf1cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab0b668164dba5998d9c124b7b113386') in 0.021195 seconds
+  Import took 0.029473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.023212 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Muerte
+  artifactKey: Guid(57387f66576dd4841a22f15d489c0fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Muerte using Guid(57387f66576dd4841a22f15d489c0fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dae4a88f4524baaf83a24ef8a89662f0') in 0.019650 seconds
+  Import took 0.029536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009954 seconds.
+  path: Assets/Rabbit Run Game Assets-09/Character Sprites/Muerte
+  artifactKey: Guid(57387f66576dd4841a22f15d489c0fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rabbit Run Game Assets-09/Character Sprites/Muerte using Guid(57387f66576dd4841a22f15d489c0fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dae4a88f4524baaf83a24ef8a89662f0') in 0.006629 seconds
+  Import took 0.016489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.103908 seconds.
+  path: Assets/Animaciones/Player_parado.anim
+  artifactKey: Guid(44438a9e8b6cb4542b2267f4fa92c2f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/Player_parado.anim using Guid(44438a9e8b6cb4542b2267f4fa92c2f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29dca14428e3355d3ef06f23feb1ff04') in 0.023360 seconds
+  Import took 0.029300 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001551 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.05 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.820 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.15 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2414.
+Total: 5.195000 ms (FindLiveObjects: 0.384700 ms CreateObjectMapping: 0.161600 ms MarkObjects: 4.347600 ms  DeleteObjects: 0.298200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002083 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.603 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2418.
+Total: 6.186800 ms (FindLiveObjects: 0.437600 ms CreateObjectMapping: 0.165100 ms MarkObjects: 5.179100 ms  DeleteObjects: 0.402900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002225 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.503 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2422.
+Total: 4.618500 ms (FindLiveObjects: 0.539600 ms CreateObjectMapping: 0.209100 ms MarkObjects: 3.661300 ms  DeleteObjects: 0.205200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003225 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.464 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2426.
+Total: 4.033700 ms (FindLiveObjects: 0.409600 ms CreateObjectMapping: 0.110800 ms MarkObjects: 3.253500 ms  DeleteObjects: 0.257900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002368 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.539 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2430.
+Total: 5.970200 ms (FindLiveObjects: 0.380800 ms CreateObjectMapping: 0.148800 ms MarkObjects: 5.052400 ms  DeleteObjects: 0.385500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001581 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.973 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2434.
+Total: 3.617700 ms (FindLiveObjects: 0.587500 ms CreateObjectMapping: 0.267500 ms MarkObjects: 2.609600 ms  DeleteObjects: 0.151300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 578.074139 seconds.
+  path: Assets/Animaciones/Player_run.anim
+  artifactKey: Guid(4b2cbe744e1feab48bfacc4bce4eefa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/Player_run.anim using Guid(4b2cbe744e1feab48bfacc4bce4eefa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dc3d748687c6a7a2ca2893de5dd7f0e') in 0.031753 seconds
+  Import took 0.038633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 175.809408 seconds.
+  path: Assets/Animaciones/Player.controller
+  artifactKey: Guid(290a3ff398e548a4796ca3e4a8375687) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/Player.controller using Guid(290a3ff398e548a4796ca3e4a8375687) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f31c7897a598e78e0c41b89516a2ae7') in 0.022474 seconds
+  Import took 0.031083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.564810 seconds.
+  path: Assets/Animaciones/New Animation.anim
+  artifactKey: Guid(ccca48e453c2b2945a8089efd8272755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/New Animation.anim using Guid(ccca48e453c2b2945a8089efd8272755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4ae3e8a574dbcba353444c007724d82') in 0.015027 seconds
+  Import took 0.027535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.092693 seconds.
+  path: Assets/Animaciones/New Animator Override Controller.overrideController
+  artifactKey: Guid(f117d0f2fc23cad408cbc527d11144bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/New Animator Override Controller.overrideController using Guid(f117d0f2fc23cad408cbc527d11144bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb4ed6cd438dc049f845505d50db0386') in 0.042206 seconds
+  Import took 0.051371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000978 seconds.
+  path: Assets/Animaciones/New Animator Override Controller.overrideController
+  artifactKey: Guid(f117d0f2fc23cad408cbc527d11144bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/New Animator Override Controller.overrideController using Guid(f117d0f2fc23cad408cbc527d11144bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb4ed6cd438dc049f845505d50db0386') in 0.010295 seconds
+  Import took 0.016537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 257.893959 seconds.
+  path: Assets/Animaciones/Player_saltar.anim
+  artifactKey: Guid(ccca48e453c2b2945a8089efd8272755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/Player_saltar.anim using Guid(ccca48e453c2b2945a8089efd8272755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db89c4b337be30d25818061d18702e9b') in 0.020142 seconds
+  Import took 0.047443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.895406 seconds.
+  path: Assets/Animaciones/Player_run.anim
+  artifactKey: Guid(4b2cbe744e1feab48bfacc4bce4eefa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/Player_run.anim using Guid(4b2cbe744e1feab48bfacc4bce4eefa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd19be4f9e84c2010a94c30f70d85aacc') in 0.007239 seconds
+  Import took 0.016401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.666235 seconds.
+  path: Assets/Animaciones/Player_parado.anim
+  artifactKey: Guid(44438a9e8b6cb4542b2267f4fa92c2f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/Player_parado.anim using Guid(44438a9e8b6cb4542b2267f4fa92c2f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6db05bfb79bace8026008be4a99561dd') in 0.007784 seconds
+  Import took 0.016494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.602807 seconds.
+  path: Assets/Animaciones/Player_saltar.anim
+  artifactKey: Guid(ccca48e453c2b2945a8089efd8272755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/Player_saltar.anim using Guid(ccca48e453c2b2945a8089efd8272755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d102fe6524ca26dc02493fda6114eef') in 0.012325 seconds
+  Import took 0.020765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010145 seconds.
+  path: Assets/Animaciones/Player_saltar.anim
+  artifactKey: Guid(ccca48e453c2b2945a8089efd8272755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/Player_saltar.anim using Guid(ccca48e453c2b2945a8089efd8272755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d102fe6524ca26dc02493fda6114eef') in 0.011717 seconds
+  Import took 0.020555 seconds .
+
